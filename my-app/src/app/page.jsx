@@ -8,7 +8,9 @@ export default function Home() {
   
 
   return (
+
     <div className="min-h-screen flex justify-center items-end bg-gray-100">
+      <h1>hi i am priyanshu lodu</h1>
       {/* White panel aligned to bottom center */}
       <div className="w-full md:w-2/5 bg-white shadow-lg flex flex-col justify-end items-center min-h-screen p-6">
         <div className="w-full max-w-md text-center mb-6">
